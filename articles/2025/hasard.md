@@ -47,7 +47,7 @@ Je me demande si le big bang aurait pu se produire sans ce hasard ontologique. L
 
 Celui d’Einstein donc. Celui qui stipule que si l’on ne parvient pas à un résultat exact c’est parce qu’on ne sait pas tout et qu’il doit exister des variables locales cachées. Ca me fait penser aux théorèmes d’incomplétude de Gödel tout ça, je ne sais pas quel rapport attribuer à tout cela si ce n’est les balades de Gödel et Einstein à Princeton qui se demandaient si la science pouvait tout prouver et si elle avait des limites. Je pense pouvoir avancer avec certitude que j’écrirai un article dédié aux théorèmes d’incomplétude de Gödel. Ils m’angoissent, pas vous ?
 
-Un exemple que je trouve formidable pour illustrer le hasard épistémique est le lancer de dé. Il semble qu’on ait 1 chance sur 6 de tomber sur n (1 &lt;= n &lt;= 6), mais si l’on prend en compte la position de départ du dé, les forces de friction, la gravité et toute autre sorte de force appliquée au dé, on pourra faire ressortir une face plus que les autres. Ainsi, plus on accumule d’éléments à propos de l’environnement et plus on a un résultat précis.
+Un exemple que je trouve formidable pour illustrer le hasard épistémique est le lancer de dé. Il semble qu’on ait 1 chance sur 6 de tomber sur n $1 <= n <= 6$, mais si l’on prend en compte la position de départ du dé, les forces de friction, la gravité et toute autre sorte de force appliquée au dé, on pourra faire ressortir une face plus que les autres. Ainsi, plus on accumule d’éléments à propos de l’environnement et plus on a un résultat précis.
 
 ## Questionnement
 
