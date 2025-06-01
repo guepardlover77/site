@@ -1,0 +1,6 @@
+<div class="article-dates">
+  <p><strong>Publié le :</strong> {{ page.date | date: "%d/%m/%Y" }}</p>
+  {% if page.last_modified_at and page.last_modified_at != page.date %}
+    <p><strong>Mis à jour le :</strong> {{ page.last_modified_at | date: "%d/%m/%Y" }}</p>
+  {% endif %}
+</div>
