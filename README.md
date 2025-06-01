@@ -22,7 +22,3 @@ Les tableaux c'est beau (ça rime).
 
 ![guepards](guepards.jpg)
 
-
----
-
-*Dernière mise à jour : 01/06/2025*
