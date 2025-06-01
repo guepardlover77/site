@@ -67,8 +67,8 @@ Pour rappel, notre pièce a une probabilité de faire pile (P) de p=9/10 et de f
 D’abord, calculons quelques probabilités :
 
 - Probabilité d’obtenir 2 fois pile : $$p² = 0.81$$
-- Probabilité d’obtenir pile puis face = Probabilité d’obtenir face puis pile = p×(1-p) = 0.09
-- Probabilité d’obtenir 2 fois face : (1-p)² = 0.01
+- Probabilité d’obtenir pile puis face = Probabilité d’obtenir face puis pile = $$p×(1-p) = 0.09$$
+- Probabilité d’obtenir 2 fois face : $$(1-p)² = 0.01$$
 
 Appliquons l’algorithme d’encodage de Huffman, afin d’optimiser le nombre de questions à poser pour savoir si c’est pile ou face, et établissons un graph comme suit et attribuer les arrêtes de façon à prioriser les évènements qui ont le plus de chance de se produire pour éviter de perdre du temps avec les évènements qui se produiront qu’une fois sur cent.
 
@@ -99,9 +99,9 @@ Nous pouvons donc établir l’encodage de l’information du résultat de la pi
 
 Et à présent, nous sommes en mesure de calculer l’entropie de Shannon dans cet exemple de deux lancers consécutifs d’une pièce truquée.
 
-```latex
+$$
 0.81×1 + 0.09×2 + 0.09×3 + 0.01×3 = 1.29 bits par paire = 0.645 bit par lancer
-```
+$$
 
 On obtient un résultat bien plus proche de la valeur théorique égale à 0.469 bit que de 1 bit !
 
