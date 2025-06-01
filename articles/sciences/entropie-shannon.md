@@ -106,3 +106,7 @@ $$
 On obtient un résultat bien plus proche de la valeur théorique égale à 0.469 bit que de 1 bit !
 
 Je vais me motiver à publier un notebook jupyter pour dessiner une jolie courbe et calculer les résultats pour n lancers.
+
+---
+
+*Dernière mise à jour le 01/06/2025*
