@@ -52,3 +52,7 @@ Un exemple que je trouve formidable pour illustrer le hasard épistémique est l
 ## Questionnement
 
 Et du coup, le fait que je ne trouve pas de copine c’est du hasard ontologique ou épistémique ? C’est sûrement pas du hasard tout court.
+
+---
+
+*Dernière mise à jour le 01/06/2025*
