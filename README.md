@@ -13,4 +13,4 @@ Vous pouvez me contacter via cam137@proton.me, je serai ravi de discuter avec de
 
 ---
 
-*Dernière mise à jour : [Date de dernière modification]*
+*Dernière mise à jour : 01/06/2025*
