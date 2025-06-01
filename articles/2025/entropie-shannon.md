@@ -37,8 +37,7 @@ Alors allons y, tout bêtement, combien de questions doit-on poser, au minimum, 
 1 question : “est-ce pile ?”. Si oui, alors c’est pile et sinon c’est face. Vous voyez bien que c’est simple ! L’entropie est égale à 1 bit. En effet :
 
 $$
-H = -(0.5 × log₂(0.5) + 0.5 × log₂(0.5))
-H = 1 bit
+H = -(0.5 × log₂(0.5) + 0.5 × log₂(0.5)) = 1 bit
 $$
 
 Dans ce cas, la théorie colle avec la pratique. En revanche, dans le cas d’une pièce truquée, il y a bien moins de place au “hasard”.
@@ -50,8 +49,7 @@ Ici, c’est l’inverse ! Avec une pièce truquée, on est quelque peu certain 
 Alors, combien de questions ? D’après la formule de Shannon :
 
 $$
-H = -(0.9 × log₂(0.9) + 0.1 × log₂(0.1))
-H = 0.469 bit
+H = -(0.9 × log₂(0.9) + 0.1 × log₂(0.1)) = 0.469 bit
 $$
 
 Il faut donc 0.469 question pour connaitre le résultat de la pièce truquée ! Il y a donc bien moins de hasard.
@@ -76,17 +74,17 @@ Appliquons l’algorithme d’encodage de Huffman, afin d’optimiser le nombre 
 
 ```plaintext
                  Racine (1.00)
-                /             
+                /             \
               0/               \1
-              /                 
+              /                 \
           PP (0.81)         Nœud (0.19)
-                          /           
+                          /           \
                         0/             \1  
-                        /               
+                        /               \
                    FP (0.09)        Nœud (0.10)
-                                   /         
+                                   /         \
                                  0/           \1
-                                 /             
+                                 /             \
                             PF (0.09)      FF (0.01)
 ```
 
