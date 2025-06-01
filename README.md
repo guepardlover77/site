@@ -1,19 +1,75 @@
-# Bienvenue
+---
+layout: default
+title: "Accueil"
+---
 
-Bonjour ! Je m'appelle Mathéo Milley-Arjaliès, passionné (vraiment passionné) par les sciences dures, la sociologie, l'éthologie et les Pink Floyd. Récemment j'ai découvert le plaisir des blog et de la lecture de passionnés sur leur terrain de jeu. J'aimerais donc dans un premier temps m'exercer à l'écriture car je suis certain d'avoir beaucoup à apprendre et ensuite partager mes passions aux curieux.
+# Bienvenue sur mon blog !
 
-Vous pouvez me contacter via cam137@proton.me, je serai ravi de discuter avec des personnes intéressées.
+## À propos
+
+Salut ! Je suis [Votre Nom], développeur/designer passionné par la technologie et l'innovation. 
+
+Sur ce blog, je partage :
+- 💻 **Mes découvertes techniques** et tutoriels de développement
+- 🎨 **Mes réflexions sur le design** et l'expérience utilisateur  
+- ✨ **Mes expériences personnelles** et apprentissages
 
 ---
 
-## Articles récents
+## 📝 Articles récents
 
-### [Le hasard 1/3](./articles/2025/hasard.md)
-*Publié le 01/06/2025* - J'ai d'abord voulu savoir de quoi était fait le "hasard" en informatique et j'ai dérivé sur le "hasard".
+{% assign recent_articles = site.pages | where_exp: "page", "page.path contains 'articles/'" | where_exp: "page", "page.name != 'index.md'" | sort: "date" | reverse | slice: 0, 5 %}
 
-### [Le hasard - Entropie de Shannon 2/3](./articles/2025/entropie-shannon.md)
-*Publié le 01/06/2025* - Merci Claude Shannon pour ce beau concept !
+{% for article in recent_articles %}
+{% if article.title %}
+### [{{ article.title }}]({{ article.url | relative_url }})
+{% if article.date %}*{{ article.date | date: "%d/%m/%Y" }}*{% endif %}
+
+{{ article.description | default: "Nouvel article disponible..." }}
+
+{% if article.tags %}
+**Tags :** {% for tag in article.tags %}`{{ tag }}`{% unless forloop.last %} {% endunless %}{% endfor %}
+{% endif %}
+
+---
+{% endif %}
+{% endfor %}
+
+## 🗂️ Catégories
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+
+<div class="category-card">
+
+### 💻 [Technique](./articles/technique/)
+Articles sur le développement, les outils et les bonnes pratiques.
+
+</div>
+
+<div class="category-card">
+
+### 🎨 [Design](./articles/design/)
+Réflexions sur l'UX/UI et le design d'interface.
+
+</div>
+
+<div class="category-card">
+
+### ✨ [Personnel](./articles/personnel/)
+Expériences personnelles et apprentissages de vie.
+
+</div>
+
+</div>
 
 ---
 
-*Dernière mise à jour : 01/06/2025*
+## 📬 Contact
+
+- **Email** : [votre.email@exemple.com](mailto:votre.email@exemple.com)
+- **GitHub** : [@votreusername](https://github.com/votreusername)
+- **LinkedIn** : [Votre profil](https://linkedin.com/in/votre-profil)
+
+---
+
+*Dernière mise à jour : {{ site.time | date: "%d/%m/%Y" }}*
