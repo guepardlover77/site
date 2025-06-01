@@ -1,1 +1,16 @@
-# site
+# Bienvenue
+
+Bonjour ! Je m'appelle Mathéo Milley-Arjaliès, passionné (vraiment passionné) par les sciences dures, la sociologie, l'éthologie et les Pink FLoyd. Récemment j'ai découvert le plaisir des blog et de la lecture de passionnés sur leur terrain de jeu. J'aimerais donc dans un premier temps m'exercer à l'écriture car je suis certain d'avoir beaucoup à apprendre et ensuite partager mes passions aux curieux.
+
+Vous pouvez me contacter via cam137@proton.me, je serai ravi de discuter avec des personnes intéressées.
+
+---
+
+## Articles récents
+
+### [Le hasard 1/3](./articles/2025/hasard.md)
+*Publié le 01/06/2025* - J'ai d'abord voulu savoir de quoi était fait le "hasard" en informatique et j'ai dérivé sur le "hasard".
+
+---
+
+*Dernière mise à jour : [Date de dernière modification]*
