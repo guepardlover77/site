@@ -1,0 +1,11 @@
+title: "cam137"
+description: "Pink Floyd & Sciences dures"
+url: "https://cam137.org"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
