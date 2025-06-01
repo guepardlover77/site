@@ -20,7 +20,7 @@ C'est beau la nature humaine ! Ou du moins quand on l'écrit en poésie et qu'on
 ### [Le hasard - Entropie de Shannon 2/3](./articles/sciences/entropie-shannon.md)
 *Publié le 01/06/2025* - Merci Claude Shannon pour ce beau concept !
 
-![guepards](guepards.jpg")
+![guepards](guepards.jpg)
 
 
 ---
