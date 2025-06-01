@@ -6,7 +6,7 @@ Vous pouvez me contacter via [cam137@proton.me](mailto:cam137@proton.me), je ser
 
 ## Catégories
 
-### [Sciences](./articles/sciences/index.md)
+### [Sciences](./articles/sciences/index.html)
 Ça casse pas la tête, promis.
 
 ### [Anthropologie](./articles/anthropologie/index.md)
