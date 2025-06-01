@@ -4,7 +4,6 @@ Bonjour ! Je m'appelle Mathéo Milley-Arjaliès, passionné (vraiment passionné
 
 Vous pouvez me contacter via [cam137@proton.me](mailto:cam137@proton.me), je serai ravi de discuter avec des personnes intéressées.
 
----
 ## Catégories
 
 ### [Sciences](./articles/sciences/index.md)
@@ -12,8 +11,6 @@ Vous pouvez me contacter via [cam137@proton.me](mailto:cam137@proton.me), je ser
 
 ### [Anthropologie](./articles/anthropologie/index.md)
 C'est beau la nature humaine ! Ou du moins quand on l'écrit en poésie et qu'on regarde plus celui qui aime que "celui"...
-
----
 
 ## Articles récents
 
