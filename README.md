@@ -1,6 +1,6 @@
 # Pink Floyd et sciences dures
 
-Bonjour ! Je m'appelle Mathéo Milley-Arjaliès, passionné (vraiment passionné) par les guépards, les sciences dures, la sociologie, l'éthologie et les Pink Floyd. Récemment j'ai découvert le plaisir des blog et de la lecture de passionnés sur leur terrain de jeu. J'aimerais donc dans un premier temps m'exercer à l'écriture car je suis certain d'avoir beaucoup à apprendre et ensuite partager mes passions aux curieux.
+Je m'appelle Mathéo Milley-Arjaliès, passionné (vraiment passionné) par les guépards, les sciences dures, la sociologie, l'éthologie et les Pink Floyd. Récemment j'ai découvert le plaisir des blog et de la lecture de passionnés sur leur terrain de jeu. J'aimerais donc dans un premier temps m'exercer à l'écriture car je suis certain d'avoir beaucoup à apprendre et ensuite partager mes passions aux curieux.
 
 Vous pouvez me contacter via [cam137@proton.me](mailto:cam137@proton.me), je serai ravi de discuter avec des personnes intéressées.
 
