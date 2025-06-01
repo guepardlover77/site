@@ -50,7 +50,7 @@ title: "Tous mes articles"
 
 ## 🗂️ Parcourir par catégorie
 
-- [💻 Articles techniques](./technique/) 
+- [💻 Articles scientifiques](./sciences/) 
 - [🎨 Articles design](./design/)
 - [✨ Articles personnels](./personnel/)
 
