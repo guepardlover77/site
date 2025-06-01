@@ -41,7 +41,7 @@ Sur ce blog, je partage :
 
 <div class="category-card">
 
-### 💻 [Technique](./articles/technique/)
+### 💻 [Technique](./articles/sciences/)
 Articles sur le développement, les outils et les bonnes pratiques.
 
 </div>
