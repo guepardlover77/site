@@ -66,7 +66,7 @@ Pour rappel, notre pièce a une probabilité de faire pile (P) de p=9/10 et de f
 
 D’abord, calculons quelques probabilités :
 
-- Probabilité d’obtenir 2 fois pile : p² = 0.81
+- Probabilité d’obtenir 2 fois pile : $$p² = 0.81$$
 - Probabilité d’obtenir pile puis face = Probabilité d’obtenir face puis pile = p×(1-p) = 0.09
 - Probabilité d’obtenir 2 fois face : (1-p)² = 0.01
 
