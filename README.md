@@ -9,8 +9,8 @@ Vous pouvez me contacter via [cam137@proton.me](mailto:cam137@proton.me), je ser
 ### [Sciences](./articles/sciences/index.html)
 Ça casse pas la tête, promis.
 
-### [Anthropologie](./articles/anthropologie/index.md)
-C'est beau la nature humaine ! Ou du moins quand on l'écrit en poésie et qu'on regarde plus celui qui aime que "celui"...
+### [Art](./articles/art/index.md)
+Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
