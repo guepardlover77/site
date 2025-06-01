@@ -5,19 +5,7 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
-theme: minima
-
-kramdown:
-  math_engine: mathjax
-  math_engine_opts:
-    preview: true
-    preview_as_code: false
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
