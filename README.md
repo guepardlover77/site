@@ -11,6 +11,9 @@ Vous pouvez me contacter via cam137@proton.me, je serai ravi de discuter avec de
 ### [Le hasard 1/3](./articles/2025/hasard.md)
 *Publié le 01/06/2025* - J'ai d'abord voulu savoir de quoi était fait le "hasard" en informatique et j'ai dérivé sur le "hasard".
 
+### [Le hasard - Entropie de Shannon 2/3](./articles/2025/entropie-shannon.md)
+*Publié le 01/06/2025* - Merci Claude Shannon pour ce beau concept !
+
 ---
 
 *Dernière mise à jour : 01/06/2025*
