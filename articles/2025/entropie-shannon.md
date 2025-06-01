@@ -15,14 +15,14 @@ De combien de bits un ordinateur a besoin pour générer le terme suivant dans u
 
 # Formule
 
-$
+$$
 \begin{align}
 H(X) &= -\sum_{i=1}^{n} p(x_i) \log_2 p(x_i) 
 \text{où } \quad &p(x_i) = \text{probabilité de l'événement } x_i 
 &n = \text{nombre d'événements possibles} 
 &H(X) \text{ s'exprime en bits}
 \end{align}
-$
+$$
 
 # Exemples
 
