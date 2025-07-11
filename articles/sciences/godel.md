@@ -1,4 +1,4 @@
-# Les théorèmes d'incomplétude de Gödel
+# Les théorèmes d'incomplétude de Gödel [1/] - Définitions et Peano
 
 ## Système formel
 Un système formel est une construction mathématique rigoureuse qui vise à capturer et organiser notre raisonnement logique. Il se compose de trois éléments essentiels :
@@ -34,11 +34,17 @@ L'arithmétique de Peano constitue l'un des exemples les plus importants de syst
 Développée par Giuseppe Peano à la fin du XIXe siècle, elle vise à formaliser nos connaissances sur les nombres entiers naturels et leurs opérations.
 
 ### Les axiomes de Peano
-Zéro est un nombre naturel : 0 ∈ ℕ
-Tout nombre naturel a un successeur : ∀n ∈ ℕ, ∃s(n) ∈ ℕ
-Zéro n'est le successeur d'aucun nombre : ∀n ∈ ℕ, s(n) ≠ 0
-Des nombres différents ont des successeurs différents : ∀n,m ∈ ℕ, s(n) = s(m) → n = m
-Principe de récurrence : Si une propriété est vraie pour 0 et que, chaque fois qu'elle est vraie pour un nombre n, elle l'est aussi pour s(n), alors elle est vraie pour tous les nombres naturels.
+- Zéro est un nombre naturel : 0 ∈ ℕ
+- Tout nombre naturel a un successeur : ∀n ∈ ℕ, ∃s(n) ∈ ℕ
+- Zéro n'est le successeur d'aucun nombre : ∀n ∈ ℕ, s(n) ≠ 0
+- Des nombres différents ont des successeurs différents : ∀n,m ∈ ℕ, s(n) = s(m) → n = m
+- Principe de récurrence : Si une propriété est vraie pour 0 et que, chaque fois qu'elle est vraie pour un nombre n, elle l'est aussi pour s(n), alors elle est vraie pour tous les nombres naturels.
+
+### La conjecture de Goodstein
+D'abord, on prend un nombre. Ensuite, on l'écrit en base 2. Puis on remplace les 2 par des 3. Et enfin on soustrait 1. <br>
+M.Goodstein nous dit que cette séquence commençant par n tend vers 0 pour tout n. <br>
+Cet exemple est troublant parce qu'elle a été démontrée vraie en 1982 mais sa démonstration a nécessité l'utilisation de l'induction transfinie sur des ordinaux bien au-delà de ce que peut exprimer l'arithmétique de Peano. <br>
+Rien que ça.
 
 ---
 
