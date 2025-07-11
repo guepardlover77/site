@@ -1,4 +1,4 @@
-# Articles de sciences
+**Liste des articles de la catégorie *sciences***
 - [Théorèmes d'incomplétude de Gödel 1/](godel-def_peano.md)
 - [Compagnies de bus](mail_bus.md)
 - [Le hasard 2/2 - Entropie de Shannon](entropie-shannon.md)
