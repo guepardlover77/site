@@ -52,4 +52,4 @@ La Joconde reste ainsi le symbole parfait de cette révolution artistique : un p
 
 ---
 
-*Cet article s'appuie notamment sur l'excellente analyse de Vincent Pomarède, conservateur au département des Peintures du musée du Louvre, dont les recherches éclairent les innovations techniques et artistiques de ce chef-d'œuvre.*
+*Dernière mise à jour le 11/07/2025*
