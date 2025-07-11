@@ -24,6 +24,8 @@ Les tableaux c'est beau (ça rime).
 ### [Le hasard 1/3](./articles/sciences/hasard.md)
 *Publié le 01/06/2025* - J'ai d'abord voulu savoir de quoi était fait le "hasard" en informatique et j'ai dérivé sur le "hasard".
 
+---
+
 ![guepards](guepards.jpg)
 
 *Dernière mise à jour le 11/07/2025*
