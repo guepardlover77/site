@@ -1,5 +1,5 @@
 # Articles de sciences
-- [Théorèmes d'incomplétude de Gödel 1/](godel.md)
+- [Théorèmes d'incomplétude de Gödel 1/](godel-def_peano.md)
 - [Compagnies de bus](mail_bus.md)
 - [Le hasard 2/2 - Entropie de Shannon](entropie-shannon.md)
 - [Le hasard 1/2](hasard.md)
