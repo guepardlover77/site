@@ -1,7 +1,8 @@
 # Articles de sciences
-- [Le hasard 1/3](hasard.md)
+- [Compagnies de bus](mail_bus.md)
 - [Le hasard 2/3 - Entropie de Shannon](entropie-shannon.md)
+- [Le hasard 1/3](hasard.md)
 
 ---
 
-*Dernière mise à jour le 01/06/2025*
+*Dernière mise à jour le 11/07/2025*
