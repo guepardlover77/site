@@ -9,6 +9,8 @@ Justement, la Joconde est -heureusement- sobre. Elle l'est tellement que c'est s
 Alors qu'est-ce qui fascine tant ? <br>
 C'est grâce à la Joconde que Raphaël a peint ce qu'on lui doit. En 1504, le jeune Raphaël entend dire que De Vinci et Michel Ange se trouvent ensemble à Florence. Il abandonne tout pour s'y rendre. Là-bas, il va rejoindre De Vinci et va même peindre des répliques de la Joconde que De Vinci avait commencée un an plus tôt.
 
+[!joconde](/images/devinci_joconde.jpg)
+
 ## Le portrait au Quattrocento : l'art de la distance
 
 Au XVe siècle, l'art du portrait suit des règles strictes héritées du Moyen Âge et de l'Antiquité. Le portrait peint du début de la Renaissance conserve une saveur archaïque, car les artistes abandonnent difficilement un système conventionnel. Les peintres du Quattrocento privilégient systématiquement la représentation de profil, s'inspirant des modèles franco-provençaux et des effigies impériales romaines gravées sur les médailles antiques. Ben oui, c'était quoi les traces qu'on avait des gens à l'époque à part les pièces de monnaie ?
