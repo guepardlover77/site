@@ -14,11 +14,14 @@ Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
+### [Compagnies de bus](./articles/sciences/compagnies_bus.md)
+*Publié le 11/07/2025* - Technique pour récupérer tous les mails des compagnies de bus de France.
+
 ### [Le hasard 1/3](./articles/sciences/hasard.md)
 *Publié le 01/06/2025* - J'ai d'abord voulu savoir de quoi était fait le "hasard" en informatique et j'ai dérivé sur le "hasard".
 
 ### [Le hasard - Entropie de Shannon 2/3](./articles/sciences/entropie-shannon.md)
-*Publié le 01/06/2025* - Merci Claude Shannon pour ce beau concept !
+*Publié le 01/06/2025* - Merci Claude.
 
 ![guepards](guepards.jpg)
 
