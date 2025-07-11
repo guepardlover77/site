@@ -52,3 +52,5 @@ L'arithmétique de Peano peut exprimer des concepts mathématiques très sophist
 Elle peut définir l'addition, la multiplication, les relations d'ordre, et même encoder des notions complexes comme la primalité d'un nombre ou la conjecture de Goldbach. <br>
 Cette richesse expressive est précisément ce qui rend l'arithmétique de Peano vulnérable aux théorèmes de Gödel. Sa capacité à "parler d'elle-même" - propriété que nous explorerons avec la numérotation de Gödel - est à la fois sa force et sa faiblesse. <br>
 
+*Dernière mise à jour le 01/06/2025*
+
