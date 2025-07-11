@@ -12,6 +12,9 @@ Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
+### [Théorèmes d'incomplétude de Gödel 1/ - Définitions et Peano](./articles/sciences/godel-def_peanio.md)
+*Publié le 11/07/2025* - Premier article sur l'angoisse de ne pas pouvoir savoir.
+
 ### [Compagnies de bus](./articles/sciences/mail_bus.md)
 *Publié le 11/07/2025* - Technique pour récupérer tous les mails des compagnies de bus de France.
 
