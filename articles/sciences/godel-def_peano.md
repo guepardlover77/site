@@ -1,4 +1,4 @@
-# Les théorèmes d'incomplétude de Gödel [1/] - Définitions et Peano
+# Les théorèmes d'incomplétude de Gödel 1/ - Définitions et Peano
 
 ## Système formel
 Un système formel est une construction mathématique rigoureuse qui vise à capturer et organiser notre raisonnement logique. Il se compose de trois éléments essentiels :
