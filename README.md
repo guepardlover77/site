@@ -12,6 +12,9 @@ Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
+### [La Joconde](./articles/art/joconde.md)
+*Publié le 11/07/2025* - Sublime Joconde.
+
 ### [Théorèmes d'incomplétude de Gödel 1/ - Définitions et Peano](./articles/sciences/godel-def_peano.md)
 *Publié le 11/07/2025* - Premier article sur l'angoisse de ne pas pouvoir savoir.
 
