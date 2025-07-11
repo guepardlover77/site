@@ -9,7 +9,8 @@ Justement, la Joconde est -heureusement- sobre. Elle l'est tellement que c'est s
 Alors qu'est-ce qui fascine tant ? <br>
 C'est grâce à la Joconde que Raphaël a peint ce qu'on lui doit. En 1504, le jeune Raphaël entend dire que De Vinci et Michel Ange se trouvent ensemble à Florence. Il abandonne tout pour s'y rendre. Là-bas, il va rejoindre De Vinci et va même peindre des répliques de la Joconde que De Vinci avait commencée un an plus tôt.
 
-[!joconde](/images/devinci_joconde.jpg)
+| ![joconde](/images/devinci_joconde.jpg) |
+| <b>La Joconde - Léonard De Vinci - 1503</b>|
 
 ## Le portrait au Quattrocento : l'art de la distance
 
