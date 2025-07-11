@@ -1,4 +1,4 @@
-# La Joconde : Comment Léonard de Vinci a révolutionné l'art du portrait
+# La Joconde
 
 Le sourire énigmatique de la Joconde nous fascine depuis des siècles. Mais au-delà de son mystère, ce chef-d'œuvre représente une véritable révolution dans l'histoire de la peinture. Pour comprendre l'ampleur de cette innovation, il faut d'abord nous replonger dans les conventions picturales de l'époque et observer comment Léonard de Vinci a brisé les codes établis pour créer un nouveau langage artistique.
 
