@@ -14,7 +14,7 @@ Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
-### [Compagnies de bus](./articles/sciences/compagnies_bus.md)
+### [Compagnies de bus](./articles/sciences/mail_bus.md)
 *Publié le 11/07/2025* - Technique pour récupérer tous les mails des compagnies de bus de France.
 
 ### [Le hasard 1/3](./articles/sciences/hasard.md)
