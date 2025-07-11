@@ -1,22 +1,37 @@
 # La Joconde
 
+![La Joconde - Léonard De Vinci - 1503/1506](/articles/art/images/devinci_joconde.jpg)
+*La Joconde - Léonard De Vinci - 1503/1506*
+
 ## On casse les haters
-Lorsque le mari de Lisa Gherardini a voulu ce tableau pour célébrer leur union et leur premier enfant, M.Giocondo ne mesurait certainement pas l'ampleur de ce qu'il allait ouvrir par la suite. <br>
-Apparemment c'est un tableau "déçevant" mais ce que je trouve la plus désolant n'est pas ce que ces gens ont à reprocher à la Mona Lisa mais plutôt que ces gens ne comprennent rien à rien. <br>
-La Joconde est une révolution !! La Joconde a ouvert les portes du portrait dans la peinture et a permis une innovation spectaculaire dans la vision des choses. <br>
-À vrai dire, si on aime la peinture c'est pas tant pour l'odeur de celle-ci ou encore le style des pinceaux. C'est surtout pour ce qu'elle nous laisse voir. D'ailleurs je trouve que, dans l'orgueil de l'homme, plus il en voit et plus il aime le tableau... <br>
-Justement, la Joconde est -heureusement- sobre. Elle l'est tellement que c'est source de déception chez ses visiteurs. On ne voit aucune trace de vie, si ce n'est un pont en arrière plan. Pas de double signification comme dans la Vénus d'Urbin de Titien (qui en doit une belle à De Vinci pour la main d'ailleurs...). <br>
-Alors qu'est-ce qui fascine tant ? <br>
+Lorsque le mari de Lisa Gherardini a voulu ce tableau pour célébrer leur union et leur premier enfant, M.Giocondo ne mesurait certainement pas l'ampleur de ce qu'il allait ouvrir par la suite.
+
+Apparemment c'est un tableau "déçevant" mais ce que je trouve la plus désolant n'est pas ce que ces gens ont à reprocher à la Mona Lisa mais plutôt que ces gens ne comprennent rien à rien. 
+
+La Joconde est une révolution !! La Joconde a ouvert les portes du portrait dans la peinture et a permis une innovation spectaculaire dans la vision des choses.
+
+À vrai dire, si on aime la peinture c'est pas tant pour l'odeur de celle-ci ou encore le style des pinceaux. C'est surtout pour ce qu'elle nous laisse voir. D'ailleurs je trouve que, dans l'orgueil de l'homme, plus il en voit et plus il aime le tableau... 
+
+Justement, la Joconde est -heureusement- sobre. Elle l'est tellement que c'est source de déception chez ses visiteurs. On ne voit aucune trace de vie, si ce n'est un pont en arrière plan. Pas de double signification comme dans la Vénus d'Urbin de Titien (qui en doit une belle à De Vinci pour la main d'ailleurs...).
+
+![La Vénus d'Urbin - Titien - 1538](articles/art/images/titien_venusdurbin.jpg)
+*La Vénus d'Urbin - Titien - 1538*
+
+Alors qu'est-ce qui fascine tant ?
+
 C'est grâce à la Joconde que Raphaël a peint ce qu'on lui doit. En 1504, le jeune Raphaël entend dire que De Vinci et Michel Ange se trouvent ensemble à Florence. Il abandonne tout pour s'y rendre. Là-bas, il va rejoindre De Vinci et va même peindre des répliques de la Joconde que De Vinci avait commencée un an plus tôt.
 
-![joconde](/articles/art/images/devinci_joconde.jpg)
-| <b>La Joconde - Léonard De Vinci - 1503</b>|
+![Réplique de la Joconde - Raphaël - 1504](articles/art/images/raphael_repliquejoconde.jpg)
+*Réplique de la Joconde - Raphaël - 1504*
 
 ## Le portrait au Quattrocento : l'art de la distance
 
 Au XVe siècle, l'art du portrait suit des règles strictes héritées du Moyen Âge et de l'Antiquité. Le portrait peint du début de la Renaissance conserve une saveur archaïque, car les artistes abandonnent difficilement un système conventionnel. Les peintres du Quattrocento privilégient systématiquement la représentation de profil, s'inspirant des modèles franco-provençaux et des effigies impériales romaines gravées sur les médailles antiques. Ben oui, c'était quoi les traces qu'on avait des gens à l'époque à part les pièces de monnaie ?
 
 Prenons l'exemple emblématique du célèbre diptyque de Piero della Francesca représentant Federico da Montefeltro et Battista Sforza (vers 1472-1475). Dans la tradition du quatorzième siècle, inspiré par le design des médailles antiques, les deux figures sont montrées de profil, un angle qui assure une bonne ressemblance et une représentation fidèle des détails du visage sans permettre à leurs sentiments de transparaître. Cette approche répond à une philosophie artistique précise : le Duc et la Duchesse d'Urbino apparaissent non affectés par les tourments et les émotions.
+
+![Le Triomphe de la Chasteté - Piero della Francesca - 1460/1472](articles/art/images/francesca_dyptique.jpg)
+*Le Triomphe de la Chasteté - Piero della Francesca - 1460/1472*
 
 Cette convention du profil strict n'est pas accidentelle. Elle traduit une conception hiérarchique de la société où les puissants doivent paraître impassibles et distants. Leur posture et la vue de profil semblent renforcer leur statut et leur distance, car en se faisant face, ils peuvent sembler observer d'en haut. Le portrait de l'époque vise avant tout à affirmer le rang social et la dignité du modèle, non à révéler sa personnalité intime.
 
@@ -27,7 +42,13 @@ D'ailleurs, c'est bien Methilde. "Mathilde" très certainement mais Stendhal éc
 
 Vers 1474-1476, Léonard de Vinci peint son premier portrait révolutionnaire : celui de Ginevra de' Benci. Bien qu'il conserve encore certains éléments traditionnels, ce tableau annonce déjà la révolution à venir. Ce portrait était assez révolutionnaire à l'époque car il montrait Ginevra de Benci dans une pose de trois quarts et ses yeux regardaient vers le spectateur sans établir de contact direct.
 
+![Portrait de Ginevra de' Benci - Léonard De Vinci - 1474/1476](articles/art/images/devinci_ginevradebenci.jpg)
+*Portrait de Ginevra de' Benci - Léonard De Vinci - 1474/1476*
+
 Cependant, comme le note la conservatrice Cécile Scailliérez, on est encore dans « la tradition du portrait statique et réservé ». Le modèle n'a ni la vivacité de la Dame à l'hermine, ni le mystère de la Joconde. Ginevra reste distante, presque froide, mais Léonard expérimente déjà avec une pose plus ouverte qui permet de révéler davantage la psychologie du personnage.
+
+![Dame à l'hermine - Léonard De Vinci - 1488](articles/art/images/devinci_damealhermine.jpg)
+*Dame à l'hermine - Léonard De Vinci - 1488*
 
 ## La révolution de la Joconde : peindre l'âme
 
