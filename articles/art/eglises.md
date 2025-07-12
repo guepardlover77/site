@@ -36,7 +36,7 @@ Notre-Dame de Paris, commencée en 1163 sous l'impulsion de l'évêque Maurice d
 
 ![Arc-boutant de Notre-Dame de Paris](/articles/art/images/EGLISES_arcboutantnotredameparis.jpg)
 
-Avant de passer à autre chose, je conseille vivement la visite de ![ce site](http://philippe.delmas3.free.fr/html/5.html) qui propose une analyse physique aux arc-boutants et croisées d'ogives.
+Avant de passer à autre chose, je conseille vivement la visite de [ce site](http://philippe.delmas3.free.fr/html/5.html) qui propose une analyse physique aux arc-boutants et croisées d'ogives.
 Il y a plein de photos c'est très intéressant !
 
 ## Les raisons d'une mutation architecturale
