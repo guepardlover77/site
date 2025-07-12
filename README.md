@@ -12,6 +12,9 @@ Les tableaux c'est beau (ça rime).
 
 ## Articles récents
 
+### [La révolution gothique dans l'architecture des églises](./articles/art/eglises.md)
+*Publié le 12/07/2025* - Je trouvais que la transition entre le gothique et le roman avait été très soudaine donc j'ai voulu la justifier.
+
 ### [La Joconde](./articles/art/joconde.md)
 *Publié le 11/07/2025* - Sublime Joconde.
 
